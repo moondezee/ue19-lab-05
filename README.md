@@ -7,3 +7,4 @@ Cette application interroge l’API publique **BoredAPI** pour afficher une acti
 ### 1. Installer les dépendances
 ```bash
 pip install -r requirements.txt
+Mise à jour pour tester GitHub Actions.
